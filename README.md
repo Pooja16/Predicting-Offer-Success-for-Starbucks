@@ -13,7 +13,7 @@ This includes the thorough analysis and the results of the analysis on Medium.
 - [Code in Python]( https://github.com/Pooja16/Predicting-Offer-Success-for-Starbucks/blob/master/Starbucks_Capstone_notebook.ipynb)
 This python file has all the code that was used to put through the entire analysis. 
 
-- [Dataset] ( https://github.com/Pooja16/Predicting-Offer-Success-for-Starbucks/tree/master/data)
+- [Dataset]( https://github.com/Pooja16/Predicting-Offer-Success-for-Starbucks/tree/master/data)
 This includes the dataset that was used for the analysis.
 
 ## Summary of results of analysis:
