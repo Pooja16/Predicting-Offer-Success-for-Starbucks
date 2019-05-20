@@ -10,17 +10,19 @@ Starbucks sends a lot of information, bogo and discount offer to its customers. 
 - [Description of project on Medium]( https://medium.com/@poojapurushothaman1512/predicting-success-of-offers-sent-by-starbucks-d4b86ea4239b)
 This includes the thorough analysis and the results of the analysis on Medium.
 
-- [Code in Python]( https://github.com/Pooja16/Decoding-Airbnb-Data/blob/master/AirbnbMultipleCityDataExploration.ipynb)
+- [Code in Python]( https://github.com/Pooja16/Predicting-Offer-Success-for-Starbucks/blob/master/Starbucks_Capstone_notebook.ipynb)
 This python file has all the code that was used to put through the entire analysis. 
 
-- [Dataset] (www.google.comhttps://github.com/Pooja16/Decoding-Airbnb-Data/tree/master/Dataset/airbnb-listings-in-major-us-cities-deloitte-ml)
+- [Dataset] ( https://github.com/Pooja16/Predicting-Offer-Success-for-Starbucks/tree/master/data)
 This includes the dataset that was used for the analysis.
 
 ## Summary of results of analysis:
 	
 The goal of my analysis is to find the customers who are most likely to respond to the offers sent by Starbucks. This helps save time and cost that was previously utilized to target the customers who might not respond back.
 
-I used multiple classifiers to predict response to an offer. The classifiers I used are Logistic Regression, Random Forest and Gradient Boosting Classifier. Out of these classifiers, Random Forest Classifier has the best performance in terms of both accuracy and F1-Score.
+I used multiple classifiers to predict response to an offer. The classifiers I used are Logistic Regression, Random Forest and Gradient Boosting Classifier. 
+
+Out of these classifiers, Random Forest Classifier has the best performance in terms of both accuracy and F1-Score.
 
 ## Software:
 
