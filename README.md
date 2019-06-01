@@ -10,7 +10,7 @@ Starbucks sends a lot of information, bogo and discount offer to its customers. 
 - [Description of project on Medium]( https://medium.com/@poojapurushothaman1512/predicting-success-of-offers-sent-by-starbucks-d4b86ea4239b)
 This includes the thorough analysis and the results of the analysis on Medium.
 
-- [Code in Python]( https://github.com/Pooja16/Predicting-Offer-Success-for-Starbucks/blob/master/Starbucks_Capstone_notebook.ipynb)
+- [Code in Python]( https://github.com/Pooja16/Predicting-Offer-Success-for-Starbucks/blob/master/Starbucks_Capstone_notebookv1.ipynb)
 This python file has all the code that was used to put through the entire analysis. 
 
 - [Dataset]( https://github.com/Pooja16/Predicting-Offer-Success-for-Starbucks/tree/master/data)
